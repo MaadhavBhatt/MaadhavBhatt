@@ -2,7 +2,7 @@
 
 - 🖤 I love math.
 - 🌱 I’m currently studying AI Safety.
-- 📫 How to reach me: https://www.linkedin.com/in/maadhav-bhatt/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maadhav-bhatt/)
 
 <!--
 **MaadhavBhatt/MaadhavBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
