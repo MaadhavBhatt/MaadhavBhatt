@@ -1,8 +1,16 @@
-## Hi there 👋 I'm Maadhav :)
+## Hi there 👋
 
-- 🖤 I love math.
-- 🌱 I’m currently studying AI Safety.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maadhav-bhatt/)
+I'm Maadhav!
+
+👨‍🎓 I'm a high school senior from India.
+
+🖤 I love math.
+
+🌱 Right now, I'm studying AI Safety and dabbling into ML.
+
+🤔 Interested in career advice on mathematics and AI - let's connect and share experiences!
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maadhav-bhatt/), [Fill out this form](https://forms.gle/Xno5kMhmPFK4E37f9)
 
 <!--
 **MaadhavBhatt/MaadhavBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
