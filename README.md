@@ -8,7 +8,7 @@ I'm Maadhav!
 
 🌱 Right now, I'm studying AI Safety and dabbling into ML.
 
-🤔 Interested in career advice on mathematics and AI - let's connect and share experiences!
+🤔 I'm interested in career advice on mathematics and AI - let's connect and share experiences!
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maadhav-bhatt/), [Fill out this form](https://forms.gle/Xno5kMhmPFK4E37f9)
 
