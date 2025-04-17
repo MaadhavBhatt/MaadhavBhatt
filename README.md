@@ -1,14 +1,8 @@
 ## Hi there 👋
 
-I'm Maadhav!
+I'm Maadhav, 17, a high school senior from India.
 
-👨‍🎓 I'm a high school senior from India.
-
-🖤 I love math.
-
-🌱 Right now, I'm studying AI Safety and dabbling into ML.
-
-🤔 I'm interested in career advice on mathematics and AI - let's connect and share experiences!
+🖤 I love math. At the moment, I'm building stuff at [Hack Club](hackclub.com), studying AI Safety, and dabbling into ML.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maadhav-bhatt/), [Fill out this form](https://forms.gle/Xno5kMhmPFK4E37f9)
 
