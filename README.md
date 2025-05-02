@@ -2,7 +2,7 @@
 
 I'm Maadhav, 17, a high school senior from India.
 
-🖤 I love math. At the moment, I'm building stuff at [Hack Club](hackclub.com), studying AI Safety, and dabbling into ML.
+🖤 I love math. At the moment, I'm building stuff at [Hack Club](https://hackclub.com), studying AI Safety, and dabbling into ML.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maadhav-bhatt/), [Fill out this form](https://forms.gle/Xno5kMhmPFK4E37f9)
 
